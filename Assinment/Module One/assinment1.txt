@@ -1,0 +1,5 @@
+
+What is SDLC ?
+
+SDLC is a structure imposed on the development of a software product that defines the process for planning, testing, documentation, deployment, and ongoing maintenance and support. 
+
