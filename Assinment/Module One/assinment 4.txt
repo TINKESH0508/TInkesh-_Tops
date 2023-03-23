@@ -1,0 +1,5 @@
+What is SRS?
+
+A software Requirments specification is a complate discripton of the behavior of the system to be devloped.
+
+This Standerd discribe possible structure, desirable contents, and qualities of a software requierments spesification.
