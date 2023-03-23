@@ -1,0 +1,5 @@
+What is agile methodology?
+
+Agile SDLC model is combination of itretive and incrimental process model with focus on process adaptability and customer satisfaction by rapid delivery of working software product.
+
+In Agile the task are devide to time boxes 9 (small time frame) to deliver specific feature Requierd by the Customer.
